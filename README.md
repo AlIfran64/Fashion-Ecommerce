@@ -17,4 +17,4 @@
 **### Admin Panel:**
 
 ![1 1](https://github.com/user-attachments/assets/6cc94aad-ff96-4973-af01-e64c16a1ddbf)
-![1 2](https://github.com/user-attachments/assets/20ff3ceb-a50b-4657-ae3f-8c1c6736a085)
+![1 2](https://github.com/user-attachments/assets/e69a5ad7-0fcd-4e82-8486-18c3c5b36382)
