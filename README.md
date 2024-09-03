@@ -18,3 +18,15 @@
 
 ![1 1](https://github.com/user-attachments/assets/6cc94aad-ff96-4973-af01-e64c16a1ddbf)
 ![1 2](https://github.com/user-attachments/assets/e69a5ad7-0fcd-4e82-8486-18c3c5b36382)
+
+
+
+### **Project Setup Guide:**
+1) Clone git Repository
+2) Install Xampp and start "Apache" & Mysql
+3) Move Cloned folder into xampp's "htdocs" folder.
+4) Type "localhost" in the URL and press enter.
+5) Select PhpMyAdmin.
+6) Create database named "shop_db" and import shop_db file from moved folder (htdocs).
+7) Type "Localhost/E_Commerce_Website" and press enter (User Panel)
+8) Type "Localhost/E_Commerce_Website/admin" and press enter (Admin panel, Username = admin, Password = 111)
