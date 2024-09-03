@@ -36,6 +36,6 @@
 
    </section>
 
-   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>Rifat AND RAfi</span> | all rights reserved!</div>
+   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>Rifat Ahmed & Al Ifran</span> | all rights reserved!</div>
 
 </footer>
